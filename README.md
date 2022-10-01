@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ R.Uday kiran reddy
 - 👀 I’m interested in ...Competitive Programming
 - 🌱 I’m currently learning ...Full stack Development
-- 💞️ I’m looking to collaborate on ... React and Node.js
+- 💞️ I’m looking to collaborate on ... React
 - 📫 How to reach me ... https://www.linkedin.com/in/uday-kiran-rupireddy-80849016b/
 
 <!---
